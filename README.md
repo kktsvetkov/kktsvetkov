@@ -8,6 +8,7 @@ I am the author of [Krumo](http://krumo.kaloyan.info), [Wano](https://github.com
 
 Here are few of the things I posted on [my site](http://kaloyan.info) lately:
 
+* **2021/06/07** [More Real World PHP Routing Benchmarks](http://kaloyan.info/writing/2021/06/07/more-php-routing-benchmarks.html "More Real World PHP Routing Benchmarks") Sharing some updates on the real-world example benchmark of Symfony's Routing component and FastRoute
 * **2021/05/31** [Real World Benchmark PHP Routing](http://kaloyan.info/writing/2021/05/31/benchmark-php-routing.html "Real World Benchmark PHP Routing") Let's see how both Symfony's Routing component and FastRoute perform with a real-world example
 * **2021/04/27** [Can you guess the number of objects created in PHP ?](http://kaloyan.info/writing/2021/04/27/php-quick-and-dirty-count-objects.html "Can you guess the number of objects created in PHP ?") Quick and dirty way (not a very accurate one) to count object instances in PHP
 * **2021/04/21** [SQL Query Backtrace](http://kaloyan.info/writing/2021/04/24/sql-query-backtrace.html "SQL Query Backtrace") Quick and easy way to track the code where SQL queries are executed from
